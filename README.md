@@ -1,3 +1,6 @@
+This readme and many of the files in this repo are cloned directly from the original repo by the paper authors: Huang, Xun and Liu, Ming-Yu and Belongie, Serge and Kautz, Jan
+The only files that were modified are the datasets, the saved models in the models folder, the config files in the config folder, and the train.sh and test.sh scripts in the scripts folder. Everything below this line is from the original authors:
+
 **The code base is no longer maintained.**
 
 **Please check here for an improved implementation of MUNIT: https://github.com/NVlabs/imaginaire/tree/master/projects/munit**
